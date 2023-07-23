@@ -8,11 +8,11 @@
 		<version>3.1.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.springrest</groupId>
-	<artifactId>springrest</artifactId>
+	<groupId>com.springcrud</groupId>
+	<artifactId>SpringCRUD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springrest</name>
-	<description>Demo project for Spring Boot</description>
+	<name>SpringCRUD</name>
+	<description>This is backend apis for blogging</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>

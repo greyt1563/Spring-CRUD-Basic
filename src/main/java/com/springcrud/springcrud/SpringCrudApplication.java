@@ -1,13 +1,13 @@
-package com.springrest.springrest;
+package com.springcrud.springcrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringrestApplication {
+public class SpringCrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringrestApplication.class, args);
+		SpringApplication.run(SpringCrudApplication.class, args);
 	}
 
 }

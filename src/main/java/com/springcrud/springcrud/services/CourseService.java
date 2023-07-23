@@ -1,8 +1,8 @@
-package com.springrest.springrest.services;
+package com.springcrud.springcrud.services;
 
 import java.util.List;
 
-import com.springrest.springrest.entity.Course;
+import com.springcrud.springcrud.entity.Course;
 
 public interface CourseService {
 

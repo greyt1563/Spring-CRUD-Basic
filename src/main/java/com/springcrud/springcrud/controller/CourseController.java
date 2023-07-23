@@ -1,4 +1,4 @@
-package com.springrest.springrest.controller;
+package com.springcrud.springcrud.controller;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.springrest.springrest.entity.Course;
-import com.springrest.springrest.services.CourseService;
+import com.springcrud.springcrud.entity.Course;
+import com.springcrud.springcrud.services.CourseService;
 
 @RestController
 @RequestMapping("/api")

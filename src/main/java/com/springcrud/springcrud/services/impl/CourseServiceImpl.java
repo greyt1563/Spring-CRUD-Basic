@@ -1,4 +1,4 @@
-package com.springrest.springrest.services.impl;
+package com.springcrud.springcrud.services.impl;
 
 import java.util.List;
 import java.util.Optional;
@@ -6,9 +6,9 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.springrest.springrest.entity.Course;
-import com.springrest.springrest.inter.CourseRepository;
-import com.springrest.springrest.services.CourseService;
+import com.springcrud.springcrud.entity.Course;
+import com.springcrud.springcrud.repo.CourseRepository;
+import com.springcrud.springcrud.services.CourseService;
 
 @Service
 public class CourseServiceImpl implements CourseService {

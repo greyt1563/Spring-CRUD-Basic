@@ -1,4 +1,4 @@
-package com.springrest.springrest.config;
+package com.springcrud.springcrud.config;
 
 
 public class SwaggerConfig {

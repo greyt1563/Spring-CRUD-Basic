@@ -1,4 +1,4 @@
-package com.springrest.springrest.entity;
+package com.springcrud.springcrud.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
